@@ -51,7 +51,8 @@ libiname.lst
 # man pages
 *.7
 # vscode tmp files
-.vscode
 # compiling tools files
 .clangd
 compile_commands.json
+config.bat
+node_modules

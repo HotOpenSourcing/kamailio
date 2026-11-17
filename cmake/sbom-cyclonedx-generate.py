@@ -16,6 +16,7 @@ resolution failures never make the target fail.
 Only the Python standard library is used.
 """
 
+import utils.session
 import argparse
 import datetime
 import json
